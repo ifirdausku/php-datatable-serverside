@@ -5,4 +5,4 @@
 
 ### Preview
 
-![preview](https://raw.githubusercontent.com/rizalrizal/php-datatable-serverside/master/preview.png "preview")
+![preview](https://raw.githubusercontent.com/ifirdausku/php-datatable-serverside/master/preview.png "preview")
