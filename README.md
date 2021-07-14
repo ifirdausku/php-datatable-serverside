@@ -7,4 +7,4 @@ Forked from https://github.com/rizalrizal/php-datatable-serverside
 
 ### Preview
 
-![preview](https://raw.githubusercontent.com/ifirdausku/php-datatable-serverside/master/preview.png)
+![preview](https://github.com/ifirdausku/php-datatable-serverside/blob/master/preview.png?raw=true "preview")
