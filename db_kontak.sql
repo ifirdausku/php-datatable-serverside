@@ -38,7 +38,7 @@ CREATE TABLE `tbl_kontak` (
 --
 
 INSERT INTO `tbl_kontak` (`id`, `nama`, `no_hp`) VALUES
-(1, 'Asvarizal', '082243708385'),
+(1, 'Feri', '082243708385'),
 (2, 'Beni', '082221338385'),
 (3, 'Chandra', '089912837121'),
 (4, 'Daniel', '087731212712'),
