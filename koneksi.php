@@ -3,8 +3,8 @@
 $host	= "localhost";
 $user	= "root";
 $pass	= "";
-$db	    = "db_kontak";
-
+$db	  = "db_kontak";
+//cek jika anda menggunakan xampp atau laragon untuk set username dan password db
 //Menggunakan objek mysqli untuk membuat koneksi dan menyimpan nya dalam variabel $mysqli	
 $mysqli = new mysqli($host, $user, $pass, $db);
 
