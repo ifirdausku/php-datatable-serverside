@@ -50,7 +50,8 @@ INSERT INTO `tbl_kontak` (`id`, `nama`, `no_hp`) VALUES
 (10, 'Jeihan', '083472732123'),
 (11, 'Kevin', '081382122122'),
 (12, 'Luis', '0812129128'),
-(13, 'Mamat', '082243708385');
+(13, 'Mamat', '082243708385')
+(14, 'Rizal', '082243788385');
 
 --
 -- Indexes for dumped tables
